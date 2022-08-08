@@ -1,0 +1,10 @@
+dadata==0.3.0
+  - requests [required: Any, installed: 2.27.1]
+    - certifi [required: >=2017.4.17, installed: 2022.6.15]
+    - charset-normalizer [required: ~=2.0.0, installed: 2.0.12]
+    - idna [required: >=2.5,<4, installed: 3.3]
+    - urllib3 [required: >=1.21.1,<1.27, installed: 1.26.11]
+pipdeptree==2.2.1
+  - pip [required: >=6.0.0, installed: 21.3.1]
+setuptools==59.6.0
+wheel==0.37.1
